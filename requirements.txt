@@ -3,7 +3,6 @@ flask-cors
 numpy
 opencv-python-headless
 dlib-bin==20.0.1
-face-recognition==1.3.0
 PyPDF2
 librosa
 soundfile
