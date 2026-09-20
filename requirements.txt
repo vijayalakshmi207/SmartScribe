@@ -2,6 +2,7 @@ Flask
 flask-cors
 numpy
 opencv-python-headless
+dlib-bin
 face-recognition
 librosa
 soundfile
