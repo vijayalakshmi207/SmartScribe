@@ -10,4 +10,4 @@ reportlab
 Werkzeug
 gunicorn
 Pillow
-setuptools
+setuptools<81
