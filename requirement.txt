@@ -1,0 +1,11 @@
+Flask
+flask-cors
+numpy
+opencv-python-headless
+face-recognition
+librosa
+soundfile
+scikit-learn
+reportlab
+Werkzeug
+gunicorn
