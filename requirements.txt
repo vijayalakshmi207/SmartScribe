@@ -3,7 +3,6 @@ flask-cors
 numpy
 opencv-python-headless
 dlib-bin==20.0.1
-face-recognition-models==0.3.0
 librosa
 soundfile
 scikit-learn
