@@ -3,10 +3,12 @@ flask-cors
 numpy
 opencv-python-headless
 dlib-bin
-face-recognition
+face-recognition-models
+face-recognition --no-deps
 librosa
 soundfile
 scikit-learn
 reportlab
 Werkzeug
 gunicorn
+Pillow
